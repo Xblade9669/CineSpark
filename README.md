@@ -1,5 +1,5 @@
 CineSpark 🎥✨
-CineSpark is a personalized movie recommendation system designed to enhance your movie-watching experience. Powered by state-of-the-art recommendation algorithms, CineSpark suggests movies tailored to your preferences based on your viewing history and ratings.
+CineSpark is a personalized movie recommendation system designed to enhance your movie-watching experience.CineSpark suggests movies tailored to your preferences based on your searches.
 
 Key Features:
 Personalized Recommendations: Get movie suggestions based on your tastes.
